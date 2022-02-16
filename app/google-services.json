@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "567696895394",
+    "project_id": "coroutine--signin",
+    "storage_bucket": "coroutine--signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567696895394:android:06ef959d819b050ca9d6fb",
+        "android_client_info": {
+          "package_name": "com.example.coroutine_google_signin_with_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567696895394-qr0eov0nv0mebhcf67mquu0jqrp5r8m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coroutine_google_signin_with_firebase_auth",
+            "certificate_hash": "77b394a6ca82a2c12a38aaed05f458ac6a9dbd5c"
+          }
+        },
+        {
+          "client_id": "567696895394-d5ot0fge6325bbkhlkjtde435vd9oti8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxvtWB5kdnM5j1Cl2rIJAMsgtIQFUWP40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567696895394-d5ot0fge6325bbkhlkjtde435vd9oti8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
